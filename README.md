@@ -5,7 +5,7 @@ A simple game to play while you're waiting for something! Move the snake around 
 
 ## Demo:
 
-![](Snake_Game.gif)
+![](SnakeGame.gif)
 
 ## Built with:
 
